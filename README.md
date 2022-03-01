@@ -1,1 +1,1 @@
-#The Space Combat. A game made with @pygame and @python
+# The Space Combat. A game made with @pygame and @python
